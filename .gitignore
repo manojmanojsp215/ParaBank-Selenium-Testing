@@ -1,0 +1,11 @@
+
+# Compiled Java files
+target/
+
+# TestNG reports
+test-output/
+
+# Eclipse files
+.settings/
+.classpath
+.project
